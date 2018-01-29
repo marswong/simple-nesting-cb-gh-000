@@ -117,4 +117,5 @@ def adding_to_dennis
     }
   }
   programmer_hash.values[2][:languages] << "Assembly"
+  programmer_hash
 end
